@@ -1,6 +1,6 @@
 # dataset settings
 dataset_type = 'CocoDataset'
-data_root = 'data/oidv6/'
+data_root = '/content/gdrive/MyDrive/Research/datasets/oidv6/'
 classes= (
     'Alarm clock',
     'Bathroom cabinet',
