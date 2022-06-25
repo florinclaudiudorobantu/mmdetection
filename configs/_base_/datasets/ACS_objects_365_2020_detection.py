@@ -9,7 +9,7 @@ classes = (
     'Stool', 'Carpet', 'Fan',  # Living room - Bench, Candle, Napkin
     'Kettle', 'Induction Cooker', 'Oven', 'Extractor', 'Rice Cooker', 'Pot', 'Gas stove', 'Flask',  # Kitchen
     'Toaster', 'Coffee Machine', 'Microwave', 'Blender', 'Refrigerator', 'Dishwasher',  # Kitchen
-    'Telephone', ''  # Office supplies & Tools
+    'Telephone',  # Office supplies & Tools
     'Camera', 'Extention Cord', 'Speaker', 'Keyboard', 'earphone', 'Moniter/TV', 'Head Phone',  # Electronics
     'Tablet', 'Cell Phone', 'Surveillance Camera', 'Projector', 'Router/modem', 'Computer Box',  # Electronics
     'Printer', 'Laptop', 'Remote',  # Electronics
